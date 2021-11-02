@@ -13,7 +13,9 @@ Project made by:
 
 
 
-```- Moudjane``` aka Mathis Oudjane as Developper & CEO,
+``` 
+- Moudjane aka Mathis Oudjane as Developper & CEO,
+```
 
 ```Nao``` aka Nao Mausservey as Lead Developper,
 
