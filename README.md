@@ -23,3 +23,7 @@ Project made by:
 
 
 Using HTML & CSS
+
+
+
+<p style='color:red'>This is some red text.</p>
