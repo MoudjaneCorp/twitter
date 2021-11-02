@@ -10,12 +10,7 @@ Project made by:
 ```
 
 
-
-
-
-```diff
-- Moudjane aka Mathis Oudjane as Developper & CEO,
-```
+```Moudjane``` aka Mathis Oudjane as Developper & CEO,
 
 ```Nao``` aka Nao Mausservey as Lead Developper,
 
@@ -25,7 +20,3 @@ Project made by:
 
 
 Using HTML & CSS
-
-
-
-<p style='color:red'>This is some red text.</p>
