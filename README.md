@@ -1,9 +1,5 @@
 # <h1> twitter </h1>
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#f03c15]zergzergz `#f03c15`
-
-
 Project made by:
 
 <span style="color: purple">Moudjane</span> aka Mathis Oudjane as Developper & CEO,
