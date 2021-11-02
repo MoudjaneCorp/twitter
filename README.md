@@ -2,16 +2,6 @@
 
 Project made by:
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
-
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-
-
 ```Moudjane``` aka Mathis Oudjane as Developper & CEO,
 
 ```Nao``` aka Nao Mausservey as Lead Developper,
@@ -19,6 +9,5 @@ Project made by:
 ```Angry Squirrel``` aka Guillaume Maugin as Developper Fullstack,
 
 ```gaut123456``` aka Gauthier Duffier as Developper & Happiness Manager,
-
 
 Using HTML & CSS
