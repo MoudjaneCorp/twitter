@@ -4,13 +4,13 @@
 Project made by:
 
 
-Moudjane aka Mathis Oudjane as Developper & CEO,
+<span style="color: purple">Moudjane</span>Moudjane aka Mathis Oudjane as Developper & CEO,
 
-Nao aka Nao Mausservey as Lead Developper,
+<span style="color: red">Nao</span> aka Nao Mausservey as Lead Developper,
 
-Angry Squirrel aka Guillaume Maugin as Developper Fullstack,
+<span style="color: pink">Angry Squirrel</span> aka Guillaume Maugin as Developper Fullstack,
 
-gaut123456 aka Gauthier Duffier as Developper & Happiness Manager,
+<span style="color: lightblue">gaut123456</span> aka Gauthier Duffier as Developper & Happiness Manager,
 
 
 Using HTML & CSS
