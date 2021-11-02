@@ -1,4 +1,4 @@
-# <h1> twitter </h1>
+# <h1> twitter copycat </h1>
 
 Project made by:
 
