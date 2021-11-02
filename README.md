@@ -13,7 +13,7 @@ Project made by:
 
 
 
-```diff !Moudjane``` aka Mathis Oudjane as Developper & CEO,
+```diff ! Moudjane``` aka Mathis Oudjane as Developper & CEO,
 
 <span style="color: red">Nao</span> aka Nao Mausservey as Lead Developper,
 
