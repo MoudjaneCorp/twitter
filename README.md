@@ -2,6 +2,16 @@
 
 Project made by:
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
+
+
+
 <span style="color: purple">Moudjane</span> aka Mathis Oudjane as Developper & CEO,
 
 <span style="color: red">Nao</span> aka Nao Mausservey as Lead Developper,
