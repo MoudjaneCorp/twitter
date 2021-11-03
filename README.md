@@ -6,7 +6,7 @@ Project made with love by:
 
 ```Nao``` aka Nao Mausservey as Lead Developper,
 
-```Angry Squirrel``` aka Guillaume Maugin as Developper Fullstack,
+```AngrySquirrel``` aka Guillaume Maugin as Developper Fullstack,
 
 ```gaut123456``` aka Gauthier Duffier as Developper & Happiness Manager,
 
