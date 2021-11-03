@@ -1,6 +1,6 @@
 # <h1> twitter copycat </h1>
 
-Project made by:
+Project made with love by:
 
 ```Moudjane``` aka Mathis Oudjane as Developper & CEO,
 
