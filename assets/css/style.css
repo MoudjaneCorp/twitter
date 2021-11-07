@@ -207,9 +207,14 @@ main section:hover{
   cursor: pointer;
 }
 
-#white{
+.white{
   color:#fff;
 }
+
+/* .back{
+  background-color: purple;
+  color:white;
+} */
 
 .boxed{
   border : solid 1px #4b4b4b;
@@ -272,10 +277,12 @@ textarea {
   position:fixed ;
   float: right;
   display:flex;
+  
 }
 .star{
   margin-top:4px;
   margin-left:480px;
+  color:white;
 }
 
 .bouton_tweeter{
@@ -412,6 +419,12 @@ float: right;
   /* border-bottom: 1px solid #4b4b4b; */
   padding: 10px 15px;
 }
+.icons_hover:hover{
+  background-color: rgba(29,155,240,.2);
+  border-radius: 50%;
+  width:25px;
+  height:25px;
+}
 
 .tweet:hover {
   background: rgba(0, 0, 0, 0.03);
@@ -463,7 +476,7 @@ float: right;
 
 .icons_t{
   width: 400px;
-  display: flex;
+  display:flex;
   flex-direction: row;
   display: inline-block;
 }
